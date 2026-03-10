@@ -1,1 +1,1 @@
-# Video-0 Drugs Discovery using Machine Learning with Festus - Introductory part
+Video 2: What's a Molecule? SMILES Strings Explained
